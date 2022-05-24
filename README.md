@@ -15,9 +15,9 @@ And download two packages:
 
 Download and initialize: 
 
-* install the code from through git command -> git clone https://github.com/unsw-cse-comp3900-9900-22T1/capstone-project-9900-w14p-task_master.git  
+* install the code from through github
 
-- If the git cloning is not possible, please download the zip file through the repository from [link](https://github.com/unsw-cse-comp3900-9900-22T1/capstone-project-9900-w14p-task_master)
+- If the git cloning is not possible, please download the zip file through the repository 
 
 Run both the backend and the frontend using the following instructions
 
