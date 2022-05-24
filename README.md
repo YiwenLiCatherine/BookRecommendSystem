@@ -47,3 +47,5 @@ Run both the backend and the frontend using the following instructions
   - `npm start` (if it shows “sh no script …” `npm install` again and retry again)
 
   - If the website does not pop up automatically in the browser, please go to the default starting URL at localhost:3000/ after the npm start command run sucessfully
+
+
