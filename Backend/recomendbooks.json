@@ -1,0 +1,182 @@
+[
+  {
+    "index": 24,
+    "book_id": 136251,
+    "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+    "authors": "J.K. Rowling, Mary GrandPr\u00e9",
+    "ratings_count": 1746574,
+    "average_rating": 4.61,
+    "score": 4.5789262657
+  },
+  {
+    "index": 26,
+    "book_id": 1,
+    "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+    "authors": "J.K. Rowling, Mary GrandPr\u00e9",
+    "ratings_count": 1678823,
+    "average_rating": 4.54,
+    "score": 4.5114542563
+  },
+  {
+    "index": 17,
+    "book_id": 5,
+    "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+    "authors": "J.K. Rowling, Mary GrandPr\u00e9, Rufus Beck",
+    "ratings_count": 1832823,
+    "average_rating": 4.53,
+    "score": 4.5042239917
+  },
+  {
+    "index": 23,
+    "book_id": 6,
+    "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+    "authors": "J.K. Rowling, Mary GrandPr\u00e9",
+    "ratings_count": 1753043,
+    "average_rating": 4.53,
+    "score": 4.5031107014
+  },
+  {
+    "index": 421,
+    "book_id": 862041,
+    "title": "Harry Potter Boxset (Harry Potter, #1-7)",
+    "authors": "J.K. Rowling",
+    "ratings_count": 190050,
+    "average_rating": 4.74,
+    "score": 4.4956594874
+  },
+  {
+    "index": 134,
+    "book_id": 62291,
+    "title": "A Storm of Swords (A Song of Ice and Fire, #3)",
+    "authors": "George R.R. Martin",
+    "ratings_count": 469022,
+    "average_rating": 4.54,
+    "score": 4.4501274404
+  },
+  {
+    "index": 191,
+    "book_id": 186074,
+    "title": "The Name of the Wind (The Kingkiller Chronicle, #1)",
+    "authors": "Patrick Rothfuss",
+    "ratings_count": 400101,
+    "average_rating": 4.55,
+    "score": 4.4456898069
+  },
+  {
+    "index": 20,
+    "book_id": 2,
+    "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+    "authors": "J.K. Rowling, Mary GrandPr\u00e9",
+    "ratings_count": 1735368,
+    "average_rating": 4.46,
+    "score": 4.4364515296
+  },
+  {
+    "index": 1,
+    "book_id": 3,
+    "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+    "authors": "J.K. Rowling, Mary GrandPr\u00e9",
+    "ratings_count": 4602479,
+    "average_rating": 4.44,
+    "score": 4.4312278369
+  },
+  {
+    "index": 160,
+    "book_id": 18512,
+    "title": "The Return of the King (The Lord of the Rings, #3)",
+    "authors": "J.R.R. Tolkien",
+    "ratings_count": 463959,
+    "average_rating": 4.51,
+    "score": 4.424370818
+  },
+  {
+    "index": 30,
+    "book_id": 4667024,
+    "title": "The Help",
+    "authors": "Kathryn Stockett",
+    "ratings_count": 1531753,
+    "average_rating": 4.45,
+    "score": 4.4240812147
+  },
+  {
+    "index": 38,
+    "book_id": 13496,
+    "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+    "authors": "George R.R. Martin",
+    "ratings_count": 1319204,
+    "average_rating": 4.45,
+    "score": 4.4201832566
+  },
+  {
+    "index": 306,
+    "book_id": 1215032,
+    "title": "The Wise Man's Fear (The Kingkiller Chronicle, #2)",
+    "authors": "Patrick Rothfuss",
+    "ratings_count": 245686,
+    "average_rating": 4.57,
+    "score": 4.4127477894
+  },
+  {
+    "index": 174,
+    "book_id": 4502507,
+    "title": "The Last Olympian (Percy Jackson and the Olympians, #5)",
+    "authors": "Rick Riordan",
+    "ratings_count": 397500,
+    "average_rating": 4.5,
+    "score": 4.4047089611
+  },
+  {
+    "index": 266,
+    "book_id": 21853621,
+    "title": "The Nightingale",
+    "authors": "Kristin Hannah",
+    "ratings_count": 253606,
+    "average_rating": 4.54,
+    "score": 4.3944487501
+  },
+  {
+    "index": 561,
+    "book_id": 7235533,
+    "title": "The Way of Kings (The Stormlight Archive, #1)",
+    "authors": "Brandon Sanderson",
+    "ratings_count": 144822,
+    "average_rating": 4.64,
+    "score": 4.3887923868
+  },
+  {
+    "index": 1307,
+    "book_id": 17927395,
+    "title": "A Court of Mist and Fury (A Court of Thorns and Roses, #2)",
+    "authors": "Sarah J. Maas",
+    "ratings_count": 108384,
+    "average_rating": 4.72,
+    "score": 4.3864081213
+  },
+  {
+    "index": 188,
+    "book_id": 33,
+    "title": "The Lord of the Rings (The Lord of the Rings, #1-3)",
+    "authors": "J.R.R. Tolkien",
+    "ratings_count": 389054,
+    "average_rating": 4.47,
+    "score": 4.3788862047
+  },
+  {
+    "index": 459,
+    "book_id": 18335634,
+    "title": "Clockwork Princess (The Infernal Devices, #3)",
+    "authors": "Cassandra Clare",
+    "ratings_count": 162099,
+    "average_rating": 4.59,
+    "score": 4.3740975967
+  },
+  {
+    "index": 350,
+    "book_id": 10025305,
+    "title": "Clockwork Prince (The Infernal Devices, #2)",
+    "authors": "Cassandra Clare",
+    "ratings_count": 307994,
+    "average_rating": 4.46,
+    "score": 4.3528586003
+  }
+]

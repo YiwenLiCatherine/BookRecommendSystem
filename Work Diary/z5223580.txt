@@ -1,0 +1,53 @@
+Yiwen - work diary
+
+week1
+- We form a group
+- Decide the project we are going to work on (Book recommend system)
+- Discuss our tech background, and decide the roles for each member in the project
+- Set up Teams channel
+- Set up Jira
+- Draft the project proposal outline and publish in group files document 
+
+week2
+- Discuss the spring sequence with Rudy
+- Continue draft the project proposal
+- Write group discussion meeting minutes
+- Join the weekly meeting with team members(about the novel functions, and project prototype)
+
+Week 3
+- Finalised the user stories and sprint plan and complete the third major part of the report
+- Started the development of user register and user login function.
+
+week4
+- render the book list(Show Book Name/Author Name/Book Cover) on recommend column
+- render the book list (Show Book Name/Author Name) on collection
+
+week5
+- work on the retrospective A report
+- join the weekly discussion and draft the meeting minuts
+- fix the register/login bugs
+
+week6
+- render the user profile page
+- complete the retrospective A report with other team mates
+
+
+week7
+- implement the serach function (by bookname, by author name. by user name)
+- render the follow/unfollow page in the user profile
+- render the leaderboard page
+- join group discussion and decide which function to drop
+
+week8 
+- Work on thesearch books by title and author together with Jinyu and Rudy
+- join group discussion and write meeting minutes
+
+Week9
+- implement the leaderboard page
+- work on the retrospective B report
+- join group discussion and write meeting minutes
+
+Week10
+- Update the UI design for the webpage
+- work on the final report and prepare the script for final demo
+- join group discussion and write meeting minutes
